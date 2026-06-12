@@ -1,0 +1,6 @@
+{
+  "name": "V'Eat Good",
+  "description": "Site web moderne et élégant pour le restaurant haut de gamme V'Eat Good à Libreville (SNI Owendo) - Grillades au feu de bois et spécialités gabonaises.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
